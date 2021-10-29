@@ -1,0 +1,16 @@
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.exe
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.deps.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.runtimeconfig.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.runtimeconfig.dev.json
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\ref\Activity4.4.2.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\bin\Debug\net5.0\Activity4.4.2.pdb
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.csproj.AssemblyReference.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.AssemblyInfoInputs.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.AssemblyInfo.cs
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.csproj.CoreCompileInputs.cache
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\ref\Activity4.4.2.dll
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.pdb
+C:\Users\diazm\Documents\EdgeUP\Software Programming\Module 4\Activity4.4.2\obj\Debug\net5.0\Activity4.4.2.genruntimeconfig.cache
