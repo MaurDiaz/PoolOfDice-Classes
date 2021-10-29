@@ -21,5 +21,10 @@ namespace Activity4._4._2
         {
             this._pool.RemoveAt(this._rand.Next(0,this._pool.Count));
         }
+        public int Count
+        {
+            private set{}
+            get {return this._pool.Count;}
+        }
     }
 }
