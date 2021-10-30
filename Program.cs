@@ -11,7 +11,7 @@ namespace Activity4._4._2
             PoolOfDice pool = new PoolOfDice();
 
             Console.Clear();
-            
+
             do {
                 Console.WriteLine("Pool of Dice\nEnter one of the following commands:");
                 Console.WriteLine("add (to add a die to the pool)");
@@ -52,14 +52,18 @@ namespace Activity4._4._2
                     }
                     else
                     {
-                        int sum = 0;
+                        int total, sumSides, roll;
+                        total = 0;
+                        sumSides = 0;
                         Console.WriteLine("Rolling... ");
                         foreach(var die in pool.ListOfDice)
                         {
-                            Console.Write($"{die.Roll()} ");
-                            sum += die.Roll();
+                            roll = die.Roll();
+                            Console.Write($"{roll}/{die.Sides} ");
+                            total += roll;
+                            sumSides += die.Sides;
                         }
-                        Console.Write($"= {sum}");
+                        Console.Write($"= {total}/{sumSides}\n");
                     }
                 }
                 else if(input == "exit")
@@ -70,7 +74,6 @@ namespace Activity4._4._2
                 {
                     Console.WriteLine("Invalid input. Please try again...");
                 }  
-
             } while(true);
         }
     }
