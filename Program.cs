@@ -10,11 +10,14 @@ namespace Activity4._4._2
             int sides;
             PoolOfDice pool = new PoolOfDice();
 
+            Console.Clear();
+            
             do {
                 Console.WriteLine("Pool of Dice\nEnter one of the following commands:");
                 Console.WriteLine("add (to add a die to the pool)");
                 Console.WriteLine("remove (to remove one die from the pool)");
                 Console.WriteLine("roll (to roll all dice in the pool)");
+                Console.WriteLine("exit (to end)");
                
                 input = Console.ReadLine().ToLower();
 
@@ -59,6 +62,14 @@ namespace Activity4._4._2
                         Console.Write($"= {sum}");
                     }
                 }
+                else if(input == "exit")
+                {
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please try again...");
+                }  
 
             } while(true);
         }
