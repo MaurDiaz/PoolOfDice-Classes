@@ -26,5 +26,10 @@ namespace Activity4._4._2
             private set{}
             get {return this._pool.Count;}
         }
+        public List<Dice> ListOfDice
+        {
+            private set{}
+            get {return this._pool;}
+        }
     }
 }
