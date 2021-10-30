@@ -12,11 +12,16 @@ namespace Activity4._4._2
         }
         public Dice(int sides)
         {
-            this._sides = sides;
+            this.Sides = sides;
         }
         public int Roll()
         {
-            return this._rand.Next(1,this._sides+1);
+            return this._rand.Next(1,this.Sides+1);
+        }
+        public int Sides
+        {
+            set { this._sides = value; }
+            get { return this._sides; }
         }
     }
 }

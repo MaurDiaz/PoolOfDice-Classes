@@ -14,7 +14,7 @@ namespace Activity4._4._2
                 Console.WriteLine("Pool of Dice\nEnter one of the following commands:");
                 Console.WriteLine("add (to add a die to the pool)");
                 Console.WriteLine("remove (to remove one die from the pool)");
-                Console.WriteLine("roll (to roll all dice in the pool");
+                Console.WriteLine("roll (to roll all dice in the pool)");
                
                 input = Console.ReadLine().ToLower();
 
@@ -27,6 +27,7 @@ namespace Activity4._4._2
                     }
                     Dice aDie = new Dice(sides);
                     pool.Add(aDie);
+
                 }
                 else if(input == "remove")
                 {
